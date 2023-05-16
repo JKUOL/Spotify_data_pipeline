@@ -9,7 +9,7 @@ In this project, a ETL pipeline using Spotify API and AWS was build. The pipelin
 
 ### Dataset/API
 
-Spotify API containing information among other things, about artists, albumbs and songs - [GitHub Pages](https://developer.spotify.com/documentation/web-api)
+Spotify API containing information among other things, about artists, albumbs and songs - [API](https://developer.spotify.com/documentation/web-api)
 
 ### Services Used
 
