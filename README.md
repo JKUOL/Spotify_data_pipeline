@@ -33,4 +33,4 @@ pip install spotipy
 ```
 Project Execution Flow
 
-Extrac Data from API -> Lamda Trigger (choosen frequency) -> Run extract Code -> Store the Raw Data -> Trigger the Transform Function -> Transform the Data and load it -> Query using Athena
+Extrac Data from API -> Lamda Trigger (choosen frequency) -> Run extract Code -> Store the Raw Data -> Trigger the Transform Function -> Transform the   Data and load it -> Query using Athena
