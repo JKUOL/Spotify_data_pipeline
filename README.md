@@ -31,3 +31,6 @@ In this project, a ETL pipeline using Spotify API and AWS was build. The pipelin
 pip install pandas
 pip install spotipy
 ```
+Project Execution Flow
+
+Extrac Data from API -> Lamda Trigger (choosen frequency) -> Run extract Code -> Store the Raw Data -> Trigger the Transform Function -> Transform the Data and load it -> Query using Athena
